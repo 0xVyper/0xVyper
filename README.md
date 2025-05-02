@@ -1,16 +1,34 @@
-## Hi there 👋
+<h2 align="center">He who fights with monsters should see to it that he does not become a monster himself. </h2>
 
-<!--
-**0xVyper/0xVyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/-Threat%20Hunter-1a1a1a?style=flat-square&logo=shield" alt="Threat Hunter">
+  <img src="https://img.shields.io/badge/-Reverse%20Engineer-1a1a1a?style=flat-square&logo=code" alt="Reverse Engineer">
+  <img src="https://img.shields.io/badge/-CTF%20Player-1a1a1a?style=flat-square&logo=flag" alt="CTF Player">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Analyzing threats, dissecting malware, and securing the digital frontier. 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-IDA%20Pro-1a1a1a?style=flat-square" alt="IDA Pro">
+  <img src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python" alt="Python">
+   <img src="https://img.shields.io/badge/-Golang-1a1a1a?style=flat-square&logo=Go" alt="Golang">
+     <img src="https://img.shields.io/badge/-Rust-1a1a1a?style=flat-square&logo=Rust" alt="Rust">
+  <p align="center">
+  <img src="https://img.shields.io/badge/-Solana-1a1a1a?style=flat-square&logo=Solana" alt="Solana">
+  <img src="https://img.shields.io/badge/-Solidity-1a1a1a?style=flat-square&logo=Solidity" alt="Solidity">
+  </p>
+</p>
+
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xVyper&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+</p>
+
+---
